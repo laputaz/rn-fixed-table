@@ -1,6 +1,6 @@
 ## 描述
 
-React Native 表格组件，支持：
+基于 react-native-table-component 的 React Native 表格组件，支持：
 
 1. 表头固定
 2. 首列固定
