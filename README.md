@@ -10,8 +10,7 @@ React Native 表格组件，支持：
 
 ## 效果图
 
-<img width="758" alt="image" src="https://github.com/user-attachments/assets/f7ce39b5-91c2-4eeb-a7d3-2aa34d45bd49">
-
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/c8dba3b7-7a40-409c-8cb9-1a99cb103208">
 
 ## FixedTable
 
